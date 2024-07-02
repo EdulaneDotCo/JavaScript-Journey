@@ -1,0 +1,1 @@
+![Day 19 JavaScript Fetch API](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948587/edulane.co-JavaScript-Basic-Day-19_f6xhlg.png)

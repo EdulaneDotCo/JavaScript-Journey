@@ -1,0 +1,1 @@
+![Day 14 JavaScript DOM Manipulation](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948586/edulane.co-JavaScript-Basic-Day-14_hasluo.png)

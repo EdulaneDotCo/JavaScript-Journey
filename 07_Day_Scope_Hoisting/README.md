@@ -1,0 +1,1 @@
+![Day 7 JavaScript Scope and Hoisting](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948594/edulane.co-JavaScript-Basic-Day-7_f4n24d.png)

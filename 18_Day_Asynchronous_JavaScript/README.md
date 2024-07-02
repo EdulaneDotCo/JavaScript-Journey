@@ -1,0 +1,1 @@
+![Day 18 Asynchronous JavaScript](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948588/edulane.co-JavaScript-Basic-Day-18_z3qih4.png)

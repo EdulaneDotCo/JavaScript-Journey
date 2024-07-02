@@ -1,0 +1,1 @@
+![Day 28 JavaScript Performance Optimization](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948584/edulane.co-JavaScript-Basic-Day-28_egruju.png)

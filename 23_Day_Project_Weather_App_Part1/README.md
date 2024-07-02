@@ -1,0 +1,1 @@
+![Day 23 JavaScript Project Weather App (Part 1)](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948583/edulane.co-JavaScript-Basic-Day-23_xek94j.png)

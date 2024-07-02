@@ -1,0 +1,1 @@
+![Day 12 JavaScript Date and Time](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948589/edulane.co-JavaScript-Basic-Day-12_fhogeh.png)

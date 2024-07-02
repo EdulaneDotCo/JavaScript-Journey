@@ -1,0 +1,1 @@
+![Day 11 JavaScript Strings](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948588/edulane.co-JavaScript-Basic-Day-11_vktxi1.png)

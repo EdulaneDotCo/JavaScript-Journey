@@ -1,0 +1,1 @@
+![Day 16 JavaScript JSON](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948583/edulane.co-JavaScript-Basic-Day-16_ssydys.png)

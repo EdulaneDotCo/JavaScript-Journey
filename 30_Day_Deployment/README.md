@@ -1,0 +1,1 @@
+![Day 30 JavaScript Projecgts Deployment](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948584/edulane.co-JavaScript-Basic-Day-30_ki6kpu.png)

@@ -1,0 +1,1 @@
+![Day 20 JavaScript Local Storage](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948585/edulane.co-JavaScript-Basic-Day-20_pblj9i.png)

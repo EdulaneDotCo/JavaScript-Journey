@@ -1,0 +1,1 @@
+![Day 10 JavaScript Objects](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948588/edulane.co-JavaScript-Basic-Day-10_fiatn6.png)

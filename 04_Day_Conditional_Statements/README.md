@@ -1,0 +1,1 @@
+![Day 4 Conditional Statements](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948595/edulane.co-JavaScript-Basic-Day-4_lzvqw1.png)

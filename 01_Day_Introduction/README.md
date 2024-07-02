@@ -1,0 +1,1 @@
+![Day 1 Introduction to JavaScript](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948596/edulane.co-JavaScript-Basic-Day-1_qjnwtz.png)

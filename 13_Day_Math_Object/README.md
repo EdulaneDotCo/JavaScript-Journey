@@ -1,0 +1,1 @@
+![Day 13 JavaScript Math Object](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948587/edulane.co-JavaScript-Basic-Day-13_jui7ph.png)

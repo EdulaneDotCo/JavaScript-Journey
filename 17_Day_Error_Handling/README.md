@@ -1,0 +1,1 @@
+![Day 17 JavaScript Error Handling](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948586/edulane.co-JavaScript-Basic-Day-17_hnmww8.png)

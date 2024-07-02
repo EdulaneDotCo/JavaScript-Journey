@@ -1,0 +1,1 @@
+![Day 22 JavaScript Project To-Do List App (Part 2)](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948586/edulane.co-JavaScript-Basic-Day-22_we4qwj.png)

@@ -1,0 +1,1 @@
+![Day 27 JavaScript Debugging](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948585/edulane.co-JavaScript-Basic-Day-27_h1bd2z.png)

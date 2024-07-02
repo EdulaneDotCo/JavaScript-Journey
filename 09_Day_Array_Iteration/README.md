@@ -1,0 +1,1 @@
+![Day 9 JavaScript Array Iteration](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948595/edulane.co-JavaScript-Basic-Day-9_eobpr4.png)

@@ -1,0 +1,1 @@
+![Day 2 Variables and Data Types](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948595/edulane.co-JavaScript-Basic-Day-2_c1s2r0.png)

@@ -1,0 +1,1 @@
+![Day 8 JavaScript Arrays](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948593/edulane.co-JavaScript-Basic-Day-8_v7rcd1.png)

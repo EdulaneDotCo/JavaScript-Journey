@@ -1,0 +1,1 @@
+![Day 29 JavaScript ES6+ Features](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719948583/edulane.co-JavaScript-Basic-Day-29_o8zvx0.png)
