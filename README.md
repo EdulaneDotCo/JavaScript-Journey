@@ -1,4 +1,4 @@
-﻿![30-Days JavaScript Learning Journey](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719940983/edulane.co-file_nc1369.png)
+﻿![30-Days JavaScript Learning Journey](https://res.cloudinary.com/dj2j9slz5/image/upload/v1719941664/edulane.co-JavaScript-30Days-Journey_fpjtmn.png)
 
 # 30-Days JavaScript Learning Journey
 
